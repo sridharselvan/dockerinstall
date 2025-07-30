@@ -1,2 +1,2 @@
-# dockerinstall
-script to install docker on ubuntu
+# docker Install Script
+ script to install docker on ubuntu
