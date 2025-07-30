@@ -16,8 +16,10 @@ Ubuntu (or Debian-based system)
 
 # Make the Script Executable
 Before running the script, you need to give it execute permissions:
+
 chmod +x install_docker.sh
 
 # Run the Script
 Execute the script with sudo to ensure it has the necessary privileges to install and remove packages:
+
 ./install_docker.sh
